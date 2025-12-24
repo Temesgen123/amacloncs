@@ -8,7 +8,7 @@ export type Data = {
       name: string;
       href: string;
     }[];
-    carousel: {
+    carousels: {
       image: string;
       title: string;
       url: string;
