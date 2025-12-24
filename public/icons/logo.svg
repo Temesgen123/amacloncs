@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="amacloncs.svg"
+   sodipodi:docname="logo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -39,7 +39,7 @@
        id="linearGradient8"
        inkscape:collect="always">
       <stop
-         style="stop-color:#f60007;stop-opacity:1;"
+         style="stop-color:#0208f9;stop-opacity:1;"
          offset="0"
          id="stop8" />
       <stop
@@ -51,11 +51,11 @@
        id="linearGradient15"
        inkscape:collect="always">
       <stop
-         style="stop-color:#02f805;stop-opacity:1;"
+         style="stop-color:#f40705;stop-opacity:1;"
          offset="0"
          id="stop15" />
       <stop
-         style="stop-color:#f70e11;stop-opacity:1;"
+         style="stop-color:#0105f3;stop-opacity:1;"
          offset="1"
          id="stop16" />
     </linearGradient>
@@ -88,7 +88,8 @@
        y1="4.4058144"
        x2="58.806872"
        y2="4.4058144"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.94221092,1.0613335)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8"
@@ -126,15 +127,15 @@
        ry="9.3435707" />
     <text
        xml:space="preserve"
-       style="font-size:13.0675px;font-family:'Bodoni MT';-inkscape-font-specification:'Bodoni MT, Normal';fill:url(#linearGradient16);fill-opacity:1;stroke:#1dee00;stroke-width:0"
-       x="1.6216782"
-       y="8.5495987"
+       style="font-size:11.5827px;font-family:'Bodoni MT';-inkscape-font-specification:'Bodoni MT, Normal';fill:url(#linearGradient16);fill-opacity:1;stroke:#1dee00;stroke-width:0"
+       x="4.9156661"
+       y="7.9760494"
        id="text6"
-       transform="scale(0.40905033,2.444687)"><tspan
+       transform="scale(0.43413882,2.3034107)"><tspan
          sodipodi:role="line"
          id="tspan6"
          style="fill:url(#linearGradient16);fill-opacity:1;stroke-width:0"
-         x="1.6216782"
-         y="8.5495987">amacloncs</tspan></text>
+         x="4.9156661"
+         y="7.9760494">amacloncs</tspan></text>
   </g>
 </svg>
